@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Yusup Maulana\\Documents\\JAVA\\javafx-sdk-11.0.2\\lib\\javafx.base.jar",
+        "c:\\Users\\Yusup Maulana\\Documents\\JAVA\\javafx-sdk-11.0.2\\lib\\javafx.controls.jar",
+        "c:\\Users\\Yusup Maulana\\Documents\\JAVA\\javafx-sdk-11.0.2\\lib\\javafx.fxml.jar",
+        "c:\\Users\\Yusup Maulana\\Documents\\JAVA\\javafx-sdk-11.0.2\\lib\\javafx.graphics.jar",
+        "c:\\Users\\Yusup Maulana\\Documents\\JAVA\\javafx-sdk-11.0.2\\lib\\javafx.media.jar",
+        "c:\\Users\\Yusup Maulana\\Documents\\JAVA\\javafx-sdk-11.0.2\\lib\\javafx-swt.jar"
+    ]
+}
